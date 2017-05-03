@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2017-04-11" view-index="0" gantt-divider-location="812" resource-divider-location="300" version="2.8.3" locale="pt_BR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2017-04-20" view-index="0" gantt-divider-location="812" resource-divider-location="300" version="2.8.4" locale="pt_BR">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nome" width="262" order="0"/>
@@ -34,8 +34,8 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="Elemento WBS" color="#000000" meeting="false" start="2017-03-30" duration="55" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
-            <task id="1" name="Safe Street" color="#000000" meeting="false" start="2017-03-30" duration="55" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+        <task id="0" name="Elemento WBS" color="#000000" meeting="false" start="2017-03-30" duration="55" complete="18" expand="true" cost-manual-value="0.0" cost-calculated="false">
+            <task id="1" name="Safe Street" color="#000000" meeting="false" start="2017-03-30" duration="55" complete="18" expand="true" cost-manual-value="0.0" cost-calculated="false">
                 <task id="2" name="Documentação" color="#000000" meeting="false" start="2017-03-30" duration="52" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
                     <task id="5" name="Introdução" color="#000000" meeting="false" start="2017-03-30" duration="1" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false"/>
                     <task id="7" name="Visão geral" color="#000000" meeting="false" start="2017-03-31" duration="2" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false"/>
@@ -44,25 +44,25 @@
                     <task id="18" name="Projeto lógico" color="#000000" meeting="false" start="2017-04-07" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false"/>
                     <task id="23" name="Anexos" color="#000000" meeting="false" start="2017-06-05" duration="5" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false"/>
                 </task>
-                <task id="27" name="Software" color="#000000" meeting="false" start="2017-04-05" duration="31" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
-                    <task id="28" name="Telas" color="#000000" meeting="false" start="2017-04-05" duration="19" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
-                        <task id="29" name="Menu" color="#8cb6ce" meeting="false" start="2017-04-05" duration="9" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                <task id="27" name="Software" color="#000000" meeting="false" start="2017-04-05" duration="31" complete="50" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                    <task id="28" name="Telas" color="#000000" meeting="false" start="2017-04-05" duration="19" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="29" name="Menu" color="#8cb6ce" meeting="false" start="2017-04-05" duration="9" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="30" type="2" difference="0" hardness="Strong"/>
                             <depend id="31" type="2" difference="0" hardness="Strong"/>
                         </task>
-                        <task id="30" name="Login" color="#8cb6ce" meeting="false" start="2017-04-18" duration="3" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="30" name="Login" color="#8cb6ce" meeting="false" start="2017-04-18" duration="3" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="33" type="2" difference="0" hardness="Strong"/>
                         </task>
-                        <task id="31" name="Cadastros" color="#8cb6ce" meeting="false" start="2017-04-18" duration="3" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="31" name="Cadastros" color="#8cb6ce" meeting="false" start="2017-04-18" duration="3" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="32" type="2" difference="0" hardness="Strong"/>
                         </task>
-                        <task id="32" name="Vizualização" color="#8cb6ce" meeting="false" start="2017-04-21" duration="3" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="32" name="Vizualização" color="#8cb6ce" meeting="false" start="2017-04-21" duration="3" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="34" type="2" difference="0" hardness="Strong"/>
                         </task>
-                        <task id="33" name="Editar" color="#8cb6ce" meeting="false" start="2017-04-21" duration="3" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="33" name="Editar" color="#8cb6ce" meeting="false" start="2017-04-21" duration="3" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="36" type="2" difference="0" hardness="Strong"/>
                         </task>
-                        <task id="34" name="Banir usuário" color="#8cb6ce" meeting="false" start="2017-04-26" duration="4" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="false">
+                        <task id="34" name="Banir usuário" color="#8cb6ce" meeting="false" start="2017-04-26" duration="4" complete="100" expand="true" cost-manual-value="0.0" cost-calculated="false">
                             <depend id="37" type="2" difference="0" hardness="Strong"/>
                         </task>
                     </task>
